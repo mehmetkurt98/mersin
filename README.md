@@ -1,3 +1,4 @@
+
 <img src="https://github.com/mehmetkurt98/mersin/assets/56899039/be1c43b4-7e18-4a23-8faa-c4f52ee883ca" width="200">	
 Splash Screen
 <img src="https://github.com/mehmetkurt98/mersin/assets/56899039/ed99edbd-29ae-4a05-bae2-64916b72c4be" width="200">
